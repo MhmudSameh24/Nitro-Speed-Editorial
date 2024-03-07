@@ -1,1 +1,3 @@
-![Nitro_Speed](Nitro_Speed_icon.png)
+<p style="text-align:center;">
+    <img src="Nitro_Speed_icon.png" alt="Nitro Speed">
+</p>
