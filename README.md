@@ -9,7 +9,7 @@
 
 <h3>Groups Links:</h3>
 
-- [Codeforces Group](https://codeforces.com/group/FLVn1Sc504)
+- [Codeforces Group](https://codeforces.com/group/xf8aNxL2Q5/contests)
 - [Vjudge Group](https://vjudge.net/group/nitro-speed)
 
 <h3>Setter & Tester:</h3>
